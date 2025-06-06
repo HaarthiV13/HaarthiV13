@@ -2,7 +2,6 @@
 
 # I'm Haarthi Vallabhaneni
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=vercel&logoColor=white)](https://haarthiv13.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haarthi-vallabhaneni-83a27828b/)
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haarthivallabhaneni13@gmail.com)
 
