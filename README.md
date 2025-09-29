@@ -6,9 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haarthivallabhaneni13@gmail.com)
 
 ---
-
 ## 🧑‍💻 About Me
-
 🎓 I'm a passionate B.Tech student specializing in **Artificial Intelligence and Machine Learning**.  
 💡 I love bringing ideas to life through code and building meaningful, real-world solutions.  
 🚀 Always excited to explore innovative tools, smart applications, and hands-on tech challenges.
@@ -22,10 +20,14 @@
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C Language](https://img.shields.io/badge/C_Language-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)  
+
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI
+
 
 ---
 
@@ -33,6 +35,9 @@
 
 Thanks for stopping by!  
 I'm always open to new opportunities, learning, and collaboration. Let's build something impactful together 🚀
+
+projects are available in my repositories.
+I’m always experimenting and adding new work!  
 
 
 <!--
