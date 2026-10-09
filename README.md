@@ -7,9 +7,7 @@
 
 ---
 ## 🧑‍💻 About Me
-🎓 I'm a passionate B.Tech student specializing in **Artificial Intelligence and Machine Learning**.  
-💡 I love bringing ideas to life through code and building meaningful, real-world solutions.  
-🚀 Always excited to explore innovative tools, smart applications, and hands-on tech challenges.
+A B.Tech graduate in **Artificial Intelligence** & Machine Learning, passionate about building things that are not just functional, but genuinely useful and thoughtfully designed. I enjoy exploring AI, learning new technologies, and turning ideas into practical solutions.
 
 **Focus Areas:**  
 - AI-driven applications  
