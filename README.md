@@ -7,7 +7,7 @@
 
 ---
 ## 🧑‍💻 About Me
-A B.Tech graduate in **Artificial Intelligence** & Machine Learning, passionate about building things that are not just functional, but genuinely useful and thoughtfully designed. I enjoy exploring AI, learning new technologies, and turning ideas into practical solutions.
+A B.Tech graduate in **Artificial Intelligence & Machine Learning**. passionate about building things that are not just functional, but genuinely useful and thoughtfully designed. I enjoy exploring AI, learning new technologies, and turning ideas into practical solutions.
 
 **Focus Areas:**  
 - AI-driven applications  
